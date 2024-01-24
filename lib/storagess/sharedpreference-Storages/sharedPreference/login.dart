@@ -1,6 +1,5 @@
-
 import 'package:flutter/material.dart';
-import 'package:newflutter/sharedpreference-Storages/sharedPreference/register.dart';
+import 'package:newflutter/storagess/sharedpreference-Storages/sharedPreference/register.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 import 'home.dart';

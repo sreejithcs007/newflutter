@@ -1,7 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:newflutter/sharedpreference-Storages/sharedPreference/login.dart';
 import 'package:shared_preferences/shared_preferences.dart';
+
+import 'login.dart';
 
 class Home extends StatefulWidget {
 
